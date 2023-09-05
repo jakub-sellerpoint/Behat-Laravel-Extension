@@ -1,7 +1,7 @@
 {
     "name": "laracasts/behat-laravel-extension",
     "type": "behat-extension",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Laravel extension for Behat",
     "keywords": ["laravel", "behat", "extension", "bdd"],
     "license": "MIT",
